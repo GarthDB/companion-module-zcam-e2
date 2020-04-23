@@ -1,0 +1,23 @@
+{
+  "name": "zcam-e2",
+  "version": "1.0.0",
+  "description": "Z Cam e2 control module for Companion",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarthDB/companion-module-zcam-e2.git"
+  },
+  "keywords": [
+    "Z Cam",
+    "Companion module"
+  ],
+  "author": "Garth Braithwaite <garthdb@gmail.com> (http://garthdb.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GarthDB/companion-module-zcam-e2/issues"
+  },
+  "homepage": "https://github.com/GarthDB/companion-module-zcam-e2#readme"
+}
